@@ -101,6 +101,7 @@ html {
     margin-left: 420px;
     margin-top:300px;
     font-size:20px;
+    position: fixed;
 } 
 
 .button {
