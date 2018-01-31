@@ -1,0 +1,12 @@
+body {
+background-color: firebrick;
+}
+
+#rainbow {
+  display: none;
+}
+
+#para {
+    text-align: center;
+    font-family: sans-serif;
+}
