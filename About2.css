@@ -7,8 +7,8 @@ background-color: red;
 }
 
 #para {
-  text-align: center;
+  text-align: justify;
   font-size: 14px; 
-  font-family: Times; 
+  font-family: Helvetica, Arial;
   color: black;
 }
