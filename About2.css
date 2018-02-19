@@ -5,3 +5,10 @@ background-color: red;
 #rainbow {
   display: none;
 }
+
+#para {
+  text-align: center;
+  font-size: 14px; 
+  font-family: Times; 
+  color: black;
+}
