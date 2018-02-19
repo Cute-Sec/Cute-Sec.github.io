@@ -7,6 +7,7 @@ background-color: red;
 }
 
 #para {
+  position: fixed;
   text-align: justify;
   font-size: 14px; 
   font-family: Helvetica, Arial;
