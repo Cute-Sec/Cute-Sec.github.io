@@ -24,9 +24,12 @@ p {
     text-align: center;
 }
 
-a {
-    align: center;
-    display: block;
+.one { 
+    text-align: center; 
+}
+
+.two { 
+    text-align: center; 
 }
 
 div {
