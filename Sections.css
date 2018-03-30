@@ -26,6 +26,7 @@ p {
 
 a {
     align: center;
+    display: block;
 }
 
 div {
