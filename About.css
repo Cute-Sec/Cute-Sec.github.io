@@ -7,7 +7,7 @@ body {
 p {
     text-align: center;
     font-size: 20px;
-    color: white;
+    color: white!important;
 } 
 
 img {
