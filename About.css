@@ -27,6 +27,6 @@ img {
     -webkit-appearance: button;
     appearance: button;
     text-decoration: none;
-    color: green;
     padding: 0.2em 0.4em;
+    border: 2px solid green;
 }
