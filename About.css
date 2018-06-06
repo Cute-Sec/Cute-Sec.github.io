@@ -18,6 +18,7 @@ img {
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px; 
+    max-width: 100%;
 }
 
 .clickMe {
