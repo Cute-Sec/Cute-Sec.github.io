@@ -5,7 +5,7 @@ Body {
 }
 
 a {
-    color: rgb(13, 165, 82);
+    color: #0f991a;
     align: center;
 }
     
@@ -28,14 +28,6 @@ h2 {
 
 p {
     text-align: center;
-}
-
-.one { 
-    text-align: center; 
-}
-
-.two { 
-    text-align: center; 
 }
 
 div {
