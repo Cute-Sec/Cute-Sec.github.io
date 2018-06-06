@@ -9,8 +9,9 @@ p {
 } 
 
 img {
-    width: 500px;
+    width: 700px;
     height: 500px;
+    align: center;
 
 .button {
     border: none;
