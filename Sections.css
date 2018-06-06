@@ -4,6 +4,12 @@ Body {
     color: white;
 }
 
+a {
+    color: rgb(13, 165, 82);
+    align: center;
+}
+    
+
 h1 {
     font-family:Times;
     text-align: center;
