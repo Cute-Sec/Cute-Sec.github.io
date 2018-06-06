@@ -8,13 +8,21 @@ a {
     color: #0f991a;
 }
 
+#one {
+    border: 2px solid gray;
+    padding: 8px 10px;
+}
+
 #one a {
     text-align: center;
     display: block;
     margin: 0 auto;
+    
+}
+
+#two {
     border: 2px solid gray;
     padding: 8px 10px;
-    
 }
 
 #two a {
