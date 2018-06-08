@@ -31,9 +31,3 @@ img {
     padding: 0.2em 0.4em;
     color: #000;
 }
-
- .clickMe:hover {
-   transform: scale(1.1);
-}
-  
-
