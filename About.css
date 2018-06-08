@@ -31,14 +31,9 @@ img {
     padding: 0.2em 0.4em;
     color: #000;
 }
+
  .clickMe:hover {
-    animation-name: background-color;
-    animation-duration: 500ms;
-    animation-fill-mode: forwards;
-  }
-  @keyframes background-color {
-    100% {
-      background-color: #4791d0;
-    }
-  }
+   transform: scale(1.1);
+}
+  
 
