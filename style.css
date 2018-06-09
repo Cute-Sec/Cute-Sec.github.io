@@ -40,12 +40,12 @@ a:hover {
 #squiddy {
     position: absolute;
     right: 18px;
-    top: 480px;
+    top: 490px;
     height: 315px; 
     width: 223px;
     max-width:100%;
 }
 
 #squiddy:hover {
-	transform: scale(0.5);
+	transform: scale(1.1);
 }
