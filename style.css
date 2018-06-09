@@ -33,6 +33,10 @@ a {
     color: yellow;
 }
 
+a:hover {
+    color: #ffcc00;
+}
+
 #squiddy {
     position: absolute;
     right: 18px;
