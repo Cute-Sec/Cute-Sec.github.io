@@ -5,7 +5,11 @@ Body {
 }
 
 a {
-    color: #0f991a;
+    color: yellow;
+}
+
+a:hover {
+    color: #FFD429;
 }
 
 #one {
