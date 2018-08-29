@@ -31,3 +31,12 @@ img {
     padding: 0.2em 0.4em;
     color: #000;
 }
+
+a {
+    color: yellow;
+}
+
+
+a:hover {
+    color: #FFD429;
+}
